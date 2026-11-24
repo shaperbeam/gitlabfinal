@@ -1,0 +1,8 @@
+git removte -v 
+git log --oneline --graph --all
+
+git add .
+git rebase --continue
+
+git config --global user.name/mail "xvsdvx"
+git config --global init.defaultBranch main
